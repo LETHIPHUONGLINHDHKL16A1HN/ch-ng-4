@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<company>
+      <manager>
+           <firstname>nguyễn</firstname>
+           <lastname>văn A</lastname>
+   <contacno>0859436004</<contacno>
+   <email>ctyuneti.@.gmail.com</email>
+    <address>
+        <city>hà nội</city>
+        <district>hai bà trưng</district>
+        <street>lĩnh nam</street>
+        <housenumber>218</housenumber>
+      </maneger>
+    </address>
+</company>

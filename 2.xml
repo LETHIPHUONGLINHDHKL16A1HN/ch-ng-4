@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ds-sinhvien>
+ <sinhvien>
+    <masv></masv>
+    <tensv></tensv>
+    <namsinh></namsinh>
+    <lop></lop>
+    <gioitinh></gioitinh>
+ </sinhvien>
+</ds-sinhvien>
